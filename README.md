@@ -1,6 +1,6 @@
 # Liri
-For the Giph Please See Below
-![Alt Text](C:\Users\paris\dev\uofu\repro\Liri)
+For the Giph Please See Below:
+![Alt Text](https://github.com/pdemille/Liri/blob/master/liri.gif)
 
 
 Liri Node.js File
